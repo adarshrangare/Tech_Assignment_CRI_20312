@@ -28,8 +28,6 @@
 - you can use any node version >= 14 and <=16
 - please make sure you do not push package-lock.json
 
-- Download and unzip the boilerplate file and then copy the "**contents**" of the unzipped file in the Masai Folder.
-- Navigate to the Masai Folder, in VS Code.
 - Run the following commands inside,
   - `npm install`
   - `npm start`
@@ -173,5 +171,4 @@ Create a movie library, where user can see list of movies on homepage. They can 
 
 ### General guidelines
 
-- The system on cp.masaischool.com may take between 1-20 minutes for responding
-- So we request you to read the problem carefully and debug before itself.
+-Dead Line 06-08-2024 08:00 PM
