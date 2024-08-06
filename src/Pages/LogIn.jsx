@@ -4,8 +4,8 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { login } from '../Redux/AuthReducer/action';
 
 const LogIn = () => {
-  const [email, setEmail] = useState('eve.holt@reqres.in');
-  const [password, setPassword] = useState('cityslicka');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const location = useLocation();
@@ -21,7 +21,7 @@ const LogIn = () => {
   };
 
   return (
-    <div>
+    <div className='loginForm'>
       <h2>Login</h2>
       <input
         type="email"
