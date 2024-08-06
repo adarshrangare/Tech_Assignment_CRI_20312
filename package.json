@@ -30,7 +30,6 @@
       "react-app/jest"
     ]
   },
-  "proxy": "https://reqres.in",
   "browserslist": {
     "production": [
       ">0.2%",
