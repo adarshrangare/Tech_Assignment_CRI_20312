@@ -1,6 +1,6 @@
 # Tech_Assignment_CRI_20312
 
-## React Redux Movie Library
+## React Redux Movie Library App
 
 ### Hosted Link : [https://tech-assignment-silk.vercel.app/](https://tech-assignment-silk.vercel.app/)
 ### Video Link : [https://drive.google.com/file/d/1dlvkaO9v98eo8wDY6Z313CgmVNqx83-T/view?usp=sharing](https://drive.google.com/file/d/1dlvkaO9v98eo8wDY6Z313CgmVNqx83-T/view?usp=sharing)
